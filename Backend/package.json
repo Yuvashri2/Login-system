@@ -1,0 +1,11 @@
+{
+  "name": "register-login-system-backend",
+  "author": "yuvashri",
+  "version": "1.0.0",
+  "type":"module", 
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "jsonwebtoken": "9.0.2",
+    "aws-sdk":"^2.814.0"
+  }
+}
